@@ -7,9 +7,9 @@ starta ubuntu
 
 kör i ubuntu:
 
-  - sudo apt service mysql restart
+  - sudo service mysql restart
   
-  - sudo apt service apache2 restart
+  - sudo service apache2 restart
   
   
   
