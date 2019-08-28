@@ -19,3 +19,9 @@ kör i ubuntu:
 Starta services / tjänster i Windows
 
 Stoppa branchcache och starta om apache2)
+
+## MYSQL
+
+**setup**
+Kör
+	sudo mysql -u root
