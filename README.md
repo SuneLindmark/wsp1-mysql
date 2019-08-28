@@ -27,5 +27,6 @@ Stoppa branchcache och starta om apache2)
 Kör:
 - sudo mysql -u root
 
+## För ny användare gör
 
-- GRANT ALL PRIVILEGES ON *.* TO 'SuneBune'@'localhost' IDENTIFIED BY 'hej123';
+GRANT ALL PRIVILEGES ON *.* TO 'NAME'@'localhost' IDENTIFIED BY 'PASSWORD';
