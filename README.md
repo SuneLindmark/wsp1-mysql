@@ -14,8 +14,8 @@ kör i ubuntu:
   
   
 
-Om apache2 skulle bråka pga. port 80.
+(Om apache2 skulle bråka pga. port 80.
 
 Starta services / tjänster i Windows
 
-Stoppa branchcache och starta om apache2
+Stoppa branchcache och starta om apache2)
