@@ -5,11 +5,13 @@ Intro till mysql
 
 starta ubuntu
 
-kör i ubuntu
+kör i ubuntu:
 
-  sudo apt service mysql restart
+  - sudo apt service mysql restart
   
-  sudo apt service apache2 restart
+  - sudo apt service apache2 restart
+  
+  
   
 
 Om apache2 skulle bråka pga. port 80.
