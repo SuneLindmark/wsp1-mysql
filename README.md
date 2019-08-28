@@ -24,4 +24,4 @@ Stoppa branchcache och starta om apache2)
 
 **setup**
 Kör
-	sudo mysql -u root
+	- sudo mysql -u root
