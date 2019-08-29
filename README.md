@@ -30,3 +30,7 @@ Kör:
 ## För ny användare gör
 
 GRANT ALL PRIVILEGES ON * . * TO 'NAME'@'localhost' IDENTIFIED BY 'PASSWORD';
+
+## apache2 mod
+
+sudo a2enmod userdir
